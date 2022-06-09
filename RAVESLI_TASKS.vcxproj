@@ -149,7 +149,12 @@
     <ClCompile Include="PART_13.cpp" />
     <ClCompile Include="PART_14.cpp" />
     <ClCompile Include="PART_15.cpp" />
+    <ClCompile Include="PART_16.cpp" />
+    <ClCompile Include="PART_17.cpp" />
+    <ClCompile Include="PART_18.cpp" />
     <ClCompile Include="PART_2.cpp" />
+    <ClCompile Include="PART_20.cpp" />
+    <ClCompile Include="PART_21.cpp" />
     <ClCompile Include="PART_4.cpp" />
     <ClCompile Include="PART_6.cpp" />
     <ClCompile Include="PART_7.cpp" />
